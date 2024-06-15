@@ -1,6 +1,6 @@
-/*  NAMA    : ARI PERDIAN
+/*  NAMA    : M.RIZKI HERDIAN
     KELAS   : TI22J
-    NIM     : 20220040072
+    NIM     : 20220040018
 */
 
 import javax.swing.*;
